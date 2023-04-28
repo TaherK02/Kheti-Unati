@@ -2529,6 +2529,12 @@ span.per-month {
     text-align: center;
     padding: 1em 0em;
 }
+.price-gd-bottom img{
+    width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+
 .price-list ul li {
     padding: 0.5em 0em;
     font-size: 1em;
