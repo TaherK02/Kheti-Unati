@@ -1747,6 +1747,7 @@ p.grid1 {
     background-size: cover;
     min-height: 400px;
     box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.15);
+    font-family: "Times New Roman", Times, serif;
 }
 .login-page {
     padding: 6.5em 0em;
